@@ -1,0 +1,86 @@
+
+body {margin: 3%;}
+h1 {font-size: 55px;
+        font-family: 'Quicksand', sans-serif;
+}
+.first-container {
+        display: flex;
+        margin-bottom: 100px;
+                  
+}
+.half-width {
+        width: 45%;
+        
+}
+.left-border {
+        border-left:5px solid;
+        border-image:linear-gradient(purple,red);
+        border-image-slice: 1;
+        padding: 10px;
+}
+.brown-color {
+        color: rgb(236, 82, 82);
+}
+.link-button {
+        text-decoration: none;
+        background-image: linear-gradient(orange,tomato);
+        padding: 10px 10px;
+        color: white;
+        font-weight: 600;
+        border-radius: 5px;
+}
+.padding {
+        padding: 50px 0px;
+}
+.half-width img {
+        width: 60%;
+        margin-left: 20%;
+}
+
+.second-container {margin-bottom: 100px;}
+h2 {text-align: center;}
+
+.blue-color {color: rgb(165, 12, 106);}
+.flex {display: flex;
+       }
+.mission {width:30%;
+          background-color: rgba(238, 215, 138, 0.849);
+          padding: 20px;
+         margin: 20px;}
+.vission {width:30%;
+          background-color: rgba(184, 157, 209, 0.801);
+          padding: 20px;
+          margin: 20px;}
+.goals {width:30%;
+        background-color: rgba(148, 223, 148, 0.849);
+        padding: 20px;
+        margin: 20px;}
+.third-container {display: flex;
+                margin-bottom: 100px;}
+.third-container div img {width: 50%;}        
+ 
+ .fourth-container {display: flex; 
+                    margin-bottom: 100px;}
+ div img {width: 50%; } 
+   
+ 
+.fifth-container {display: flex;
+                  }
+.second-half-width {width: 30%;
+                   background-color: rgba(177, 134, 218, 0.925);
+                   margin-right: 2%; 
+                   margin-bottom: 50px;
+                 }
+.second-half-width p {text-align: center;}                   
+                                      
+ul {list-style-type: none;}  
+ul a {text-decoration: none;}
+.background-color {color: white;
+        background-color: rgba(14, 12, 12, 0.774);
+        height: 100px;
+        text-align: center;
+        padding: 20px 0px;
+        }                    
+
+  
+                          
